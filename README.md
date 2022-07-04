@@ -8,7 +8,10 @@ Este bot foi construído na live da DevStars em 02 de julho de 2022. A aula est�
 - Saber utilizar o Telegram
 
 ## Configurações
+
 É necessário ter o Python 3.6 (ou superior) instalado em sua máquina. Para instalar a biblioteca do Telgram no Python, digite:
+
 > pip install pyTelegramBotApi
+
 Para instalar a biblioteca __Requests__ do Python, digite:
 > pip install requests
